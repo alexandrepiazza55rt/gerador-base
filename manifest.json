@@ -1,5 +1,5 @@
 {
-  "data_version": "2026.06.17-r3",
+  "data_version": "2026.06.17-r4",
   "files": [
     {
       "name": "materiais.json",
@@ -18,7 +18,7 @@
     },
     {
       "name": "catalog.json",
-      "sha256": "ad8c75ca9ac289302b9635d9fd8700c76edd3820bbb98bf5947f726e1a9fdb1c",
+      "sha256": "5daa34bc41d140d543ef28bcc8da2c2454bd6b2b3ab4419168bdc40b65a48b99",
       "bytes": 236710
     },
     {
@@ -4403,8 +4403,8 @@
     },
     {
       "name": "structures/X-2026-001.json",
-      "sha256": "bae66ee4280ca940b19617bc1180bd858b0d86eb44d119ea1eabee5af534bc86",
-      "bytes": 462
+      "sha256": "87e0b75b4b6a31335a626690e60f584d307923d071f15bf39980776072747b39",
+      "bytes": 545
     },
     {
       "name": "structures/X-2026-002.json",
@@ -4412,6 +4412,6 @@
       "bytes": 374
     }
   ],
-  "notes": "Ajuste teste 2",
+  "notes": "correção X-2026-001 (rev 2)",
   "generated_at": "2026-06-17"
 }

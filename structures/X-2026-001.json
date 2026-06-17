@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "rev": 1,
+  "rev": 2,
   "status": "ativo",
   "id": "X-2026-001",
   "tipo": "TESTE-PUBLICACAO",
@@ -18,6 +18,12 @@
     {
       "poste": "DT-10/150",
       "delta": {}
+    },
+    {
+      "poste": "DT-10/300",
+      "delta": {
+        "150": 1
+      }
     },
     {
       "poste": "DT-10/300",
