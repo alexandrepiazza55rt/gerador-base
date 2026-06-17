@@ -1,5 +1,5 @@
 {
-  "data_version": "2026.06.17-r2",
+  "data_version": "2026.06.17-r3",
   "files": [
     {
       "name": "materiais.json",
@@ -18,8 +18,8 @@
     },
     {
       "name": "catalog.json",
-      "sha256": "3bfaf4117d4add74130b5b327f704f7944f77e45122d5a69134759780fa1c6fb",
-      "bytes": 236436
+      "sha256": "ad8c75ca9ac289302b9635d9fd8700c76edd3820bbb98bf5947f726e1a9fdb1c",
+      "bytes": 236710
     },
     {
       "name": "structures/R1.json",
@@ -4405,8 +4405,13 @@
       "name": "structures/X-2026-001.json",
       "sha256": "bae66ee4280ca940b19617bc1180bd858b0d86eb44d119ea1eabee5af534bc86",
       "bytes": 462
+    },
+    {
+      "name": "structures/X-2026-002.json",
+      "sha256": "aedd2b4cfc6489e0570dd616e2c7104f9f1583ee325ec8e9118881d342d3865f",
+      "bytes": 374
     }
   ],
-  "notes": "Ajuste teste",
+  "notes": "Ajuste teste 2",
   "generated_at": "2026-06-17"
 }
