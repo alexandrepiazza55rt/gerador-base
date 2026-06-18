@@ -1,5 +1,5 @@
 {
-  "data_version": "2026.06.18-r1",
+  "data_version": "2026.06.18-r2",
   "files": [
     {
       "name": "materiais.json",
@@ -4397,16 +4397,11 @@
       "bytes": 3790
     },
     {
-      "name": "structures/X-2026-002.json",
-      "sha256": "aedd2b4cfc6489e0570dd616e2c7104f9f1583ee325ec8e9118881d342d3865f",
-      "bytes": 374
-    },
-    {
       "name": "catalog.json",
-      "sha256": "baabb9beb7c91a945ef7eea90f63b7961203a3907efc086a4bb95e762e6af652",
-      "bytes": 236441
+      "sha256": "d4eb11d7527440fdc5b85429db9c2080bf3b9c3394935f4a8c71c54ac7ce7e1a",
+      "bytes": 236167
     }
   ],
-  "notes": "remove X-2026-001",
+  "notes": "remove X-2026-002",
   "generated_at": "2026-06-18"
 }

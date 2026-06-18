@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "data_version": "2026.06.18-r1",
+  "data_version": "2026.06.18-r2",
   "generated_at": "2026-06-18",
   "structures": [
     {
@@ -7886,15 +7886,6 @@
       "file": "structures/R588.json",
       "bytes": 2119,
       "sha256": "61c277f97ebaf1de33e2eba0cbbb2b4b1917edf800d75e140f399a24d0b56dc0"
-    },
-    {
-      "id": "X-2026-002",
-      "rev": 1,
-      "categoria": "Rede Ultra Mega Compacta",
-      "status": "ativo",
-      "file": "structures/X-2026-002.json",
-      "bytes": 374,
-      "sha256": "aedd2b4cfc6489e0570dd616e2c7104f9f1583ee325ec8e9118881d342d3865f"
     }
   ]
 }
