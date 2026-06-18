@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "data_version": "2026.06.17-r4",
-  "generated_at": "2026-06-17",
+  "data_version": "2026.06.18-r1",
+  "generated_at": "2026-06-18",
   "structures": [
     {
       "id": "S1",
@@ -7886,15 +7886,6 @@
       "file": "structures/R588.json",
       "bytes": 2119,
       "sha256": "61c277f97ebaf1de33e2eba0cbbb2b4b1917edf800d75e140f399a24d0b56dc0"
-    },
-    {
-      "id": "X-2026-001",
-      "rev": 2,
-      "categoria": "Monofásico 13,8 kV",
-      "status": "ativo",
-      "file": "structures/X-2026-001.json",
-      "bytes": 545,
-      "sha256": "87e0b75b4b6a31335a626690e60f584d307923d071f15bf39980776072747b39"
     },
     {
       "id": "X-2026-002",

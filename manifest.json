@@ -1,5 +1,5 @@
 {
-  "data_version": "2026.06.17-r4",
+  "data_version": "2026.06.18-r1",
   "files": [
     {
       "name": "materiais.json",
@@ -15,11 +15,6 @@
       "name": "precos.json",
       "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
       "bytes": 3
-    },
-    {
-      "name": "catalog.json",
-      "sha256": "5daa34bc41d140d543ef28bcc8da2c2454bd6b2b3ab4419168bdc40b65a48b99",
-      "bytes": 236710
     },
     {
       "name": "structures/R1.json",
@@ -4402,16 +4397,16 @@
       "bytes": 3790
     },
     {
-      "name": "structures/X-2026-001.json",
-      "sha256": "87e0b75b4b6a31335a626690e60f584d307923d071f15bf39980776072747b39",
-      "bytes": 545
-    },
-    {
       "name": "structures/X-2026-002.json",
       "sha256": "aedd2b4cfc6489e0570dd616e2c7104f9f1583ee325ec8e9118881d342d3865f",
       "bytes": 374
+    },
+    {
+      "name": "catalog.json",
+      "sha256": "baabb9beb7c91a945ef7eea90f63b7961203a3907efc086a4bb95e762e6af652",
+      "bytes": 236441
     }
   ],
-  "notes": "correção X-2026-001 (rev 2)",
-  "generated_at": "2026-06-17"
+  "notes": "remove X-2026-001",
+  "generated_at": "2026-06-18"
 }
